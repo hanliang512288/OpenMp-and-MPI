@@ -1,0 +1,200 @@
+--------------------------------------------------------------------------
+mpiexec was unable to launch the specified application as it could not find an executable:
+
+Executable: 320
+Node: edward043
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to launch the specified application as it could not find an executable:
+
+Executable: 320
+Node: edward043
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to launch the specified application as it could not find an executable:
+
+Executable: 320
+Node: edward043
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to launch the specified application as it could not find an executable:
+
+Executable: 320
+Node: edward043
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to launch the specified application as it could not find an executable:
+
+Executable: 320
+Node: edward043
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to launch the specified application as it could not find an executable:
+
+Executable: 320
+Node: edward043
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to launch the specified application as it could not find an executable:
+
+Executable: 320
+Node: edward043
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to launch the specified application as it could not find an executable:
+
+Executable: 320
+Node: edward043
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to launch the specified application as it could not find an executable:
+
+Executable: 320
+Node: edward043
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to launch the specified application as it could not find an executable:
+
+Executable: 320
+Node: edward043
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
+3 0.009232
+2 0.348076
+0 0.839668
+1 0.844617
+3 0.009379
+2 0.358531
+0 0.839663
+1 0.839879
+3 0.009233
+2 0.358279
+0 0.840460
+1 0.840408
+3 0.014367
+2 1.088245
+1 2.047100
+0 2.042331
+3 0.015256
+2 0.363188
+0 0.839878
+1 0.839925
+3 0.014676
+2 0.358891
+0 0.849842
+1 0.849699
+3 0.014226
+2 0.367965
+0 0.839731
+1 0.839688
+3 0.014805
+2 0.359046
+0 0.840641
+1 0.840735
+3 0.009311
+2 0.348431
+0 0.839827
+1 0.839914
+3 0.009232
+2 0.358986
+0 0.844683
+1 0.840049
+3 0.037290
+2 1.385657
+0 3.375335
+1 3.370439
+3 0.036657
+2 1.427262
+0 3.383199
+1 3.378627
+3 0.071680
+2 1.385277
+0 3.359392
+1 3.364029
+3 0.048452
+2 1.427135
+0 3.378387
+1 3.378162
+3 0.036664
+2 1.435995
+0 3.363754
+1 3.363765
+3 0.072295
+2 1.459588
+0 3.363619
+1 3.363559
+3 0.136664
+2 4.312104
+1 7.999359
+0 7.984883
+3 0.072273
+2 1.426852
+0 3.364822
+1 3.364690
+3 0.071656
+2 1.427121
+0 3.402305
+1 3.402221
+3 0.036669
+2 1.442575
+0 3.363481
+1 3.363598
+3 0.146334
+2 5.692347
+0 13.470369
+1 13.466071
+3 0.146307
+2 5.685661
+0 13.472710
+1 13.477573
+3 0.151298
+2 5.703496
+0 13.464755
+1 13.464805
+3 0.146283
+2 5.693642
+0 13.069569
+1 13.069444
+3 0.151367
+2 5.695539
+0 13.540050
+1 13.539927
+3 0.146353
+2 5.696158
+0 13.509312
+1 13.513559
+3 0.272565
+2 5.831848
+0 13.478852
+1 13.478802
+3 0.161453
+2 5.694118
+0 13.465847
+1 13.466125
+3 0.149371
+2 5.719375
+0 13.063404
+1 13.067979
+3 0.177339
+2 5.749684
+0 13.465545
+1 13.469969

@@ -1,0 +1,2 @@
+/var/spool/torque/mom_priv/jobs/1870109.edward-m.SC: line 12: syntax error near unexpected token `qs'
+/var/spool/torque/mom_priv/jobs/1870109.edward-m.SC: line 12: `for i in `seq 1 10`;qs'

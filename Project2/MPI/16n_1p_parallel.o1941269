@@ -1,0 +1,76 @@
+43.805629
+38.633075
+37.420326
+35.535597
+27.048868
+37.330652
+37.694719
+39.921677
+37.206305
+20.017824
+34.307044
+32.600202
+35.042498
+37.938383
+34.837822
+35.849359
+36.559757
+35.213923
+35.203845
+20.472014
+47.672277
+42.624790
+24.669576
+41.003574
+44.687277
+45.226052
+45.413647
+44.457689
+43.254719
+40.745457
+37.094816
+46.415388
+42.632270
+40.262554
+51.589439
+48.176235
+46.971445
+47.862641
+43.297424
+40.882520
+76.379435
+76.040157
+76.583748
+76.211705
+81.096385
+62.727027
+76.797111
+60.015176
+65.765876
+60.034358
+211.000812
+221.487159
+206.020916
+217.640079
+212.650770
+204.698507
+=>> PBS: job killed: walltime 3639 exceeded limit 3600
+mpiexec: killing job...
+
+[edward015][[781,1],4][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] [edward007][[781,1],7][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)
+[edward033][[781,1],10][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)
+mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)[edward014][[781,1],5][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)
+[edward025][[781,1],2][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)
+[edward033][[781,1],11][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)
+
+[edward014][[781,1],6][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)
+[edward025][[781,1],3][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)
+[edward033][[781,1],12][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)
+[edward033][[781,1],13][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)
+[edward033][[781,1],14][btl_tcp_frag.c:216:mca_btl_tcp_frag_recv] mca_btl_tcp_frag_recv: readv failed: Connection reset by peer (104)
+--------------------------------------------------------------------------
+mpiexec noticed that process rank 0 with PID 16239 on node edward036 exited on signal 15 (Terminated).
+--------------------------------------------------------------------------
+mpiexec: clean termination accomplished
+
+16 total processes killed (some possibly by mpiexec during cleanup)

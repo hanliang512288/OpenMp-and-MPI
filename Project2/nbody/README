@@ -1,0 +1,5 @@
+To run the codes on the cluster, use the qsub scripts
+(either directly or by using the "run" targets in the
+Makefile).  You may want to modify these scripts.
+Currently, the head node writes a run.out file to 
+/scratch/partition1 and copies it over.

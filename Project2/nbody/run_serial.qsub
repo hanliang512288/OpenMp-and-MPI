@@ -1,0 +1,16 @@
+#!/bin/bash
+#
+#$ -cwd
+#$ -j y
+#$ -S /bin/bash
+export LD_LIBRARY_PATH=/share/apps/local/lib64:$LD_LIBRARY_PATH
+
+MYDIR=/state/partition1/$USER/
+OUTF=$MYDIR/run.out
+
+mkdir -p $MYDIR
+./nbserial.x -o $OUTF -F 5
+scp $OUTF crocus:`pwd`
+
+exit 0;
+

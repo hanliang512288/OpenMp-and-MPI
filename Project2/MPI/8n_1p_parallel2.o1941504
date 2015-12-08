@@ -1,0 +1,326 @@
+0.475962
+0.471553
+0.475989
+0.475027
+0.468145
+0.470325
+0.476039
+0.475460
+0.477450
+0.482387
+1.109877
+1.076712
+1.100677
+1.109192
+1.134590
+1.077133
+1.076534
+1.105527
+1.091439
+1.124811
+3.355396
+3.368562
+3.384251
+3.381701
+3.315571
+3.379567
+3.252186
+3.343821
+3.366334
+3.420188
+11.726245
+12.138255
+11.650554
+12.153071
+12.107111
+12.095418
+11.692923
+11.616487
+11.678668
+11.878504
+44.979948
+45.080061
+44.698510
+45.329598
+45.391367
+44.866620
+44.774756
+45.263377
+[edward025:15087] plm:tm: failed to poll for a spawned daemon, return status = 17002
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+--------------------------------------------------------------------------
+A daemon (pid unknown) died unexpectedly on signal 1  while attempting to
+launch so we are aborting.
+
+There may be more information reported by the environment (see above).
+
+This may be because the daemon was unable to find all the needed shared
+libraries on the remote node. You may set your LD_LIBRARY_PATH to have the
+location of the shared libraries on the remote nodes and this will
+automatically be forwarded to the remote nodes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	edward015 - daemon did not report back when launched
+	edward014 - daemon did not report back when launched
+	edward002 - daemon did not report back when launched
+=>> PBS: job killed: walltime 173054 exceeded limit 7200

@@ -1,0 +1,44 @@
+Using 1 threads
+21.320051,Using 1 threads
+21.126488,Using 1 threads
+21.304190,Using 1 threads
+21.298748,Using 1 threads
+21.161104,Using 1 threads
+21.311802,Using 1 threads
+21.293779,Using 1 threads
+21.298716,Using 1 threads
+21.309607,Using 1 threads
+21.272625,\n
+Using 1 threads
+21.114698,Using 1 threads
+21.281422,Using 1 threads
+21.280403,Using 1 threads
+21.267570,Using 1 threads
+21.276190,Using 1 threads
+21.282534,Using 1 threads
+21.275269,Using 1 threads
+21.282501,Using 1 threads
+21.279930,Using 1 threads
+21.276812,\n
+Using 1 threads
+21.275589,Using 1 threads
+21.277063,Using 1 threads
+21.279873,Using 1 threads
+21.264374,Using 1 threads
+21.273342,Using 1 threads
+21.281931,Using 1 threads
+21.276300,Using 1 threads
+21.255098,Using 1 threads
+21.257908,Using 1 threads
+21.273592,\n
+/var/spool/torque/mom_priv/jobs/1866031.edward-m.SC: line 34: ./rc: Permission denied
+/var/spool/torque/mom_priv/jobs/1866031.edward-m.SC: line 34: ./rc: Permission denied
+/var/spool/torque/mom_priv/jobs/1866031.edward-m.SC: line 34: ./rc: Permission denied
+/var/spool/torque/mom_priv/jobs/1866031.edward-m.SC: line 34: ./rc: Permission denied
+/var/spool/torque/mom_priv/jobs/1866031.edward-m.SC: line 34: ./rc: Permission denied
+/var/spool/torque/mom_priv/jobs/1866031.edward-m.SC: line 34: ./rc: Permission denied
+/var/spool/torque/mom_priv/jobs/1866031.edward-m.SC: line 34: ./rc: Permission denied
+/var/spool/torque/mom_priv/jobs/1866031.edward-m.SC: line 34: ./rc: Permission denied
+/var/spool/torque/mom_priv/jobs/1866031.edward-m.SC: line 34: ./rc: Permission denied
+/var/spool/torque/mom_priv/jobs/1866031.edward-m.SC: line 34: ./rc: Permission denied
+\n

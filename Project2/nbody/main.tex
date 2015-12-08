@@ -1,0 +1,77 @@
+\documentclass{article}
+
+\usepackage{amsmath}
+\usepackage{fullpage}
+\usepackage{times}
+
+\usepackage[letterpaper=true,
+  colorlinks=true,
+  linkcolor=red,
+  filecolor=green,
+  citecolor=red,
+  pdfpagemode=none]
+  {hyperref}
+
+\newcommand{\bfF}{\mathbf{F}}
+\newcommand{\bfx}{\mathbf{x}}
+
+\title{$N$-body assignment}
+\author{David Bindel}
+\date{2/23/2010}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{Introduction}
+
+For the second assignment, you will be timing and tuning
+serial and parallel particle simulation codes in C.  The
+parallel versions use both OpenMP and MPI.  As written,
+these codes are not particularly high performance.  Your
+job is three-fold:
+\begin{itemize}
+\item
+  Characterize the performance of all three basic codes as a
+  function of the number of particles in the system and the
+  number of processors.  Simple models are nice here, but
+  so are empirical measurements.
+\item
+  Improve the complexity by changing from the naive $O(n^2)$
+  force evaluation algorithm to an algorithm based on spatial
+  partitioning.  The latter algorithm should require roughly $O(n)$
+  work, allowing you to scale to much larger numbers of particles.
+  You will want to modify the parallel algorithms to use the same
+  spatial decomposition --- and you will want to try to do something
+  a little more clever to keep communication from dominating computation
+  in the overall cost of your program!
+\item
+  Improve or extend the code in some other way that appeals to you.
+  This could be by doing something more clever with the time integrator
+  (which is currently a basic leapfrog scheme); by thinking about how
+  to balance the work dynamically; or even by doing some performance
+  tuning on the serial implementation.  Feel free to suggest your own
+  ideas as well!
+\end{itemize}
+In what follows, I spell out some of the basic numerical components
+used by the base codes, describe how the serial, OpenMP, and MPI
+drivers work (and how they differ from each other), and note a few
+things about option processing and binary I/O in a Unix environment.
+
+As always, more information may be found on the web page or the wiki.
+
+\input{codes}
+
+
+\section{Postscript}
+
+This document is partly meant to introduce the code for our second
+homework assignment, and partly as an exercise (for me) in working
+with a documentation tool called {\tt dsbweb} that I developed a
+couple years ago.  This documentation tool provides a minimalist system
+to support Knuth's idea of ``literate programming,'' or writing
+programs as one might write essays.
+
+
+\end{document}

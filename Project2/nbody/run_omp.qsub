@@ -1,0 +1,17 @@
+#!/bin/bash
+#
+#$ -cwd
+#$ -j y
+#$ -S /bin/bash
+export LD_LIBRARY_PATH=/share/apps/local/lib64:$LD_LIBRARY_PATH
+
+MYDIR=/state/partition1/$USER/
+OUTF=$MYDIR/run.out
+
+#export OMP_NUM_THREADS=8
+mkdir -p $MYDIR
+./nbomp.x -o $OUTF -F 5
+scp $OUTF crocus:`pwd`
+
+exit 0;
+
